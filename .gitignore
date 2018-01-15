@@ -1,1 +1,4 @@
-node_modules/
+client/*
+server/development/*
+server/production/*
+node_modules
